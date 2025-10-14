@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Arthur+Vargas!)](https://git.io/typing-svg)
 
+## Salve!
+<div align="left">
+  <a href="https://www.linkedin.com/in/arthurvargas10/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://drive.google.com/drive/folders/14ieco_2wd8GcprIL9SLTFLpkL7tNqGQa?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Certificados-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+</div>
+
 
 <div align="center">
 
